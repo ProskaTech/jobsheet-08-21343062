@@ -1,5 +1,6 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## Nesa Athallah Ramde Pikuang - 21343062
+JobSheet 8 ini lebih difokuskan terhadap array, disini terdapat 3 latihan dan 3 tugas.Menyimpan data yang berbentuk list disebut dengan "Array" dimana array ini ditandai dengan "Brackets" yang artinya tanda baca kurung (). 
+
+Pada latihan 1 dan 2 menggunakan implementasi array satu dimensi yang ditandai dengan tanda kurung siku sebanyak 1 pasang dan dimulai dengan indeks 0 dimana data nya berupa angka 0 sebanyak 100. Sedangkan pada latihan 3 ini menggunakan implementasi array dua dimensi dengan deklarasinya 4 baris dan 2 kolom namun dengan output baris dan kolom yang 0. 
+
+Tugas 1 ini pendeklarasian array dengan nama days sebagai indentifiernya dan menggunakan "lenght" karna pembuatan loop, tugas ini terdiri dari 7 elemen yaitu "Monday,Tuesday...".Tugas 2 menggunakan JoptionPane untuk menampilkan inputan kepada user. Fungsi yang digunakan pada tugas ini adalah "...InputDialog". Tugas 3 menggunakan array multidimensi ditandai dengan 2 pasang tanda kurung siku yang artinya ada beberapa subskrip array dalam program tersebut.
